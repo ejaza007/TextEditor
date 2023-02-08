@@ -40,7 +40,9 @@ If there are only less than x lines available, only remove those lines. cl - Cle
 
 
 ⦁	[Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
-⦁	[Gap Buffer]([https://www.geeksforgeeks.org/map-of-vectors-in-c-stl-with-examples/](https://www.geeksforgeeks.org/gap-buffer-data-structure/))
+
+⦁	[Gap Buffer](https://www.geeksforgeeks.org/map-of-vectors-in-c-stl-with-examples/](https://www.geeksforgeeks.org/gap-buffer-data-structure/)
+
 ⦁	[Array](https://www.geeksforgeeks.org/arrays-in-c-cpp/)  
 
 
