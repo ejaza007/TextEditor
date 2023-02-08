@@ -34,14 +34,16 @@ aa - Add a blank line above the current-line. dl - Delete the current-line.
 
 dl x - Delete the current-line, and x - 1 lines below. 
 
-If there are only less than x lines available, only remove those lines. cl - Clear the currently loaded data from the program.
+If there are only less than x lines available, only remove those lines.
+
+cl - Clear the currently loaded data from the program.
 
 ## Data structures and algorithms used
 
 
 ⦁	[Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
-⦁	[Gap Buffer](https://www.geeksforgeeks.org/map-of-vectors-in-c-stl-with-examples/](https://www.geeksforgeeks.org/gap-buffer-data-structure/)
+⦁	[Gap Buffer](https://www.geeksforgeeks.org/gap-buffer-data-structure/)
 
 ⦁	[Array](https://www.geeksforgeeks.org/arrays-in-c-cpp/)  
 
