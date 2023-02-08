@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=LinkedListBufferTest
+comment0.text=\n\ The\ test\ class\ LinkedListBufferTest.\n\n\ @author\ \ Armaghan\ Ejaz\n\ @version\ 13-03-2022\n
+comment1.params=
+comment1.target=LinkedListBufferTest()
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ LinkedListBufferTest\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment4.params=
+comment4.target=void\ test_meth_load_string_toString()
+comment4.text=\n\ test\ created\ to\ test\ load_string\ and\ toString\ methods\n\n\ adds\ nodes\ using\ the\ load_string\ method\n\ uses\ toString\ to\ test\ if\ loaded\ as\ expected\n\ \n
+comment5.params=
+comment5.target=void\ test_meth_cursor_methods()
+comment5.text=\n\ test\ created\ to\ test\ all\ the\ cursor\ movement\ methods\n\n\ loads\ strings\ and\ moves\ cursor\ along\ the\ string\ \n\ tests\ if\ cursor\ movement\ is\ as\ expected\ using\ boolean\n\ tests\ cursor\ location\ using\ cursor\ position\n\ \n
+comment6.params=
+comment6.target=void\ test_meth_remove_char()
+comment6.text=\n\ test\ created\ to\ test\ the\ remove_char\ methods\n\n\ loads\ strings\ and\ uses\ remove_char\ to\ remove\ the\ characters\n\ tests\ using\ toString\ to\ see\ what\ string\ has\ been\ removed\n\ tests\ using\ cursor\ position\ to\ show\ movement\ of\ cursor\n\ \n
+comment7.params=
+comment7.target=void\ test_meth_insert_text()
+comment7.text=\n\ test\ created\ to\ test\ the\ insert_text\ method\n\n\ loads\ strings\ and\ uses\ insert_text\ to\ add\ nodes\n\ tests\ using\ toString\ to\ see\ what\ string\ has\ been\ added\n\ \n
+numComments=8

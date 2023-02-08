@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Editor
+comment0.text=\n\ Takes\ in\ input\ using\ Scanner\ Class\n\ Runs\ document\ class\ methods\ depending\ on\ input\n\ \n\ @author\ Armaghan\ Ejaz\n\ @version\ 13-03-2022\n
+comment1.params=type
+comment1.target=void\ main(java.lang.String)
+comment1.text=\n\ Main\ method\ for\ scanner\ class\n\ uses\ if-else\ structure\ to\ run\ methods\n\ Creates\ Buffer\ Structure\ using\ Gap\ Buffer\ or\ Linked\ List\ Buffer\ depending\ on\ \n\ User\ provides\ String\n\n\ @param\ String\ \n\ \n
+comment2.params=doc\ input
+comment2.target=void\ test_method(Document,\ java.lang.String)
+comment3.params=doc\ input
+comment3.target=void\ test_method_e(Document,\ java.lang.String)
+numComments=4

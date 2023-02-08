@@ -1,0 +1,18 @@
+
+The Project required the Buffer Structure to use either the Gap Buffer Class or the Linked List Buffer Class. 
+To accomplish this changes had to be made to the Buffer Structure class. The GapBuffer array gb_array was
+Changed to a GapBufferInterface array. This is because the LinkedListBuffer and GapBuffer classes both implement
+From the array.
+To facilitate this the BufferStructure constructor was changed to have a parameter of String variable “type “
+This type would be passed in the main method of the Editor class
+Thus, in the program any time an object of BufferStructure was being created, it was changed to accept a parameter
+With an added if-else condition that the array formed would be of either LinkedListBuffer or GapBuffer depending on the String
+Passed.
+
+2 new methods were also created. In the BufferStructure class a method called StringToForPrint was created.
+This is because the original toString method was outputting the string of the Buffer Structure in a different format
+Then from what was required. This method is called in the Editor class when loading a document.
+The second method was using the remove_line method in the Document class to create an overloaded version 
+Which takes in an integer value to remove multiple lines. This was also used in the Editor class.
+
+No other changes were made.
