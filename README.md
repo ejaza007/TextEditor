@@ -1,8 +1,11 @@
 # TextEditor
 A Java text editor with a choice of two efficient data structures: gap buffer and linked list. This text editor offers basic features such as opening, writing to, and saving to files, and provides a fast and reliable way to manipulate and store text.
+
 The text editor uses the Scanner class and runs on the BlueJ user interface
+
 Run the Editor class, which contains the main, and enter "gap" to utilize the gap buffer data structure or enter "linked" to use a linked list data 
 structure.
+
 The Editor handles all file manipulation through the keyboard commands as follows:
 
 o xxxxx - Open a file named “xxxxx”.
